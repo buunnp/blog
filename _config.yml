@@ -57,11 +57,11 @@ plugins:
 author:
   name   : "buunnp"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Mnnn..."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/buunnp"
 
 footer:
   links:
