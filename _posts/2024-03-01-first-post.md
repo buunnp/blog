@@ -18,6 +18,6 @@ tags:
 
 好不容易在本地配置好了 Ruby 环境，安装了 Jekyll，结果 new 不出一个原始站点。（如果一切顺利，本篇博文应是这里面的各种流水账）
 
-泄气了，不玩了，这个老模板能一键部署，能用就行。
+泄气了，不玩了，[这个老模板能一键部署](https://github.com/new?template_name=mm-github-pages-starter&template_owner=mmistakes)，能用就行。
 
 博客今天又开张，是为记录，更新随缘。
